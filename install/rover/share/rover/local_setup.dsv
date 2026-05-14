@@ -1,2 +1,1 @@
-source;share/rover/environment/ament_prefix_path.sh
-source;share/rover/environment/path.sh
+/home/vyra/Documents/Robots/ws-rover/build/rover/ament_cmake_environment_hooks/local_setup.dsv
