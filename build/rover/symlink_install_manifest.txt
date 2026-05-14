@@ -1,4 +1,5 @@
 /home/vyra/Documents/Robots/ws-rover/install/rover/share/rover/config/empty.yaml
+/home/vyra/Documents/Robots/ws-rover/install/rover/share/rover/description/inertial_macros.xacro
 /home/vyra/Documents/Robots/ws-rover/install/rover/share/rover/description/robot.urdf.xacro
 /home/vyra/Documents/Robots/ws-rover/install/rover/share/rover/description/robot_core.xacro
 /home/vyra/Documents/Robots/ws-rover/install/rover/share/rover/launch/rsp.launch.py
